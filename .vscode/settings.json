@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "scheduler.h": "c",
-        "queue.h": "c",
-        "common.h": "c",
-        "descriptor_tables.h": "c"
-    }
-}
